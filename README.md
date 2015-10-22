@@ -1,0 +1,2 @@
+# Object-Tracking-using-OpenCV-Computer-Vision-
+- Undertook all the work of Image Processing done using OpenCV. I calculated the (X, Y) coordinates of   Shuttle (Object) in the 2-D frame using Background Subtraction method in OpenCV and then, using the   laws and formulas of Projectile Motion, extended the work in 2-D frame to 3-D frame by assuming the   trajectory of shuttle (object) and thereby moving the robot to prescribed calculated position obtained through   laws of trajectory using Projectile.
